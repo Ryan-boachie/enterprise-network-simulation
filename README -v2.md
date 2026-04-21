@@ -15,7 +15,6 @@ This project is a network simulation designed using Cisco Packet Tracer. It demo
 - Networking concepts (IP addressing, subnetting, routing basics)
 
 🧱 Network Design
-- Topology type: (e.g., Star / Bus / Hybrid)
 - Devices used:
   - 1 Router
   - 1 or more Switches
@@ -31,10 +30,6 @@ This project is a network simulation designed using Cisco Packet Tracer. It demo
 - Ping test between devices
 - Successful communication between all nodes
 
-📷 Screenshots
-
-
-📁 
 
 
 👨‍💻 
