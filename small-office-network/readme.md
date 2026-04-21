@@ -1,4 +1,6 @@
-🖧 Cisco Packet Tracer Network Design Project 📌 Overview This project is a network simulation designed using Cisco Packet Tracer. It demonstrates the setup and configuration of a basic computer network including devices, IP addressing, and connectivity testing.
+🖧 Cisco Packet Tracer Network Design Project 📌 
+Overview 
+This project is a network simulation designed using Cisco Packet Tracer. It demonstrates the setup and configuration of a basic computer network including devices, IP addressing, and connectivity testing.
 
 🎯 Objectives
 
@@ -13,7 +15,7 @@ Cisco Packet Tracer
 Networking concepts (IP addressing, subnetting, routing basics)
 🧱 Network Design
 
-Topology type: (e.g., Star / Bus / Hybrid)
+Topology type: Network
 Devices used:
 1 Router
 1 or more Switches
